@@ -3,7 +3,12 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1GKPZQBASp/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yogesh_shetty_c_m/profilecard/?igsh=cnZlZTJuejVpM2o5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogesh-shetty-c-m-3889142b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yogesh_shetty_?t=yN98hbl6xL-iZhsnM8xdmQ&s=08) 
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1GKPZQBASp/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yogesh_shetty_c_m/profilecard/?igsh=cnZlZTJuejVpM2o5)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-shetty-c-m-3889142b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yogesh_shetty_?t=yN98hbl6xL-iZhsnM8xdmQ&s=08)  
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
