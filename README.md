@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/yogesh_shetty_c_m/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/yogesh-shetty-c-m-3889142b2/">
+  <a href="www.linkedin.com/in/yogesha-c-m">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://x.com/yogesh_shetty_">
