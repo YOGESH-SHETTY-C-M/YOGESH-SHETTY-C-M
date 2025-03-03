@@ -4,16 +4,16 @@
 
 ## 🌐 Socials:  
 
-<p align="left">
+<p align="left" style="display: flex; gap: 20px;">
   <a href="https://www.facebook.com/share/1GKPZQBASp/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://www.instagram.com/yogesh_shetty_c_m/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/yogesh-shetty-c-m-3889142b2/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://x.com/yogesh_shetty_">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="40"/>
   </a>
