@@ -34,7 +34,8 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Makefile](https://img.shields.io/badge/Makefile-0769AD?style=for-the-badge&logo=gnu&logoColor=white)  
-![8051](https://img.shields.io/badge/8051-004080?style=for-the-badge&logoColor=white)
+![8051](https://img.shields.io/badge/8051-004080?style=for-the-badge&logoColor=white)  
+
 
 
 # 📊 GitHub Stats:
