@@ -2,9 +2,9 @@
 👋 Hello! I'm YOGESHA C M<br><br>🛠️ Embedded Firmware Developer with 2 Years of Experience<br><br>              I am currently working for [**Loginware softtec private Ltd**](https://loginwaresofttec.com/)<br><br>              Check my Resume here - [**click here**](https://your-resume-link.com)<br><br>              Reach out to me on yogeshshetty1111@gmail.com<br><br>I'm passionate about developing reliable and efficient firmware for embedded systems. My experience spans working with microcontrollers, microprocessors, IoT devices, and real-time systems. I'm skilled in C, Python programming, hardware interfacing, and communication protocols like UART, I2C, SPI and CAN.<br><br>🔧 Skills:<br>              Languages: C, Python<br>              Platforms: STM32, Raspberry Pi, ESP8266/NodeMCU,ESP32, Arduino AVR boards, 8051 uc<br>              Tools: Keil, STM32CubeIDE, Arduino IDE, Thonny IDE for micropython<br>              OS: Flexible to work with LINUX environment<br>              Protocols: UART, I2C, SPI, CAN, GSM, RFID<br>              IoT Platforms: Blynk, Ubidots, Thingspeak<br><br>🚀 Projects:<br>              Eagle pro - An IIOT CNC monitoring system for efficient industrial production<br>              Diver development for STM32<br>              Automatic borewell motor starter byn GSM communication modules <br>              IoT-based monitoring systems<br>              Real-time sensor interfacing<br>              RFID access systems<br><br>Let's connect and build something innovative!
 
 
-## 🌐 Socials:  
+## 🌐 Socials:
 
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+<p style="display: flex; gap: 12px; align-items: center;">
   <a href="https://www.facebook.com/share/1GKPZQBASp/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="40"/>
   </a>
@@ -17,7 +17,8 @@
   <a href="https://x.com/yogesh_shetty_">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="40"/>
   </a>
-</div>
+</p>
+
 
 
 # 💻 Tech Stack:
