@@ -22,19 +22,19 @@
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white&logoWidth=30) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&logoWidth=30) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white&logoWidth=30) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white&logoWidth=30) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white&logoWidth=30) 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white&logoWidth=30) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi&logoColor=white&logoWidth=30) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white&logoWidth=30) 
-![NodeMCU](https://img.shields.io/badge/NodeMCU-003366?style=plastic&logo=esp8266&logoColor=white&logoWidth=30) 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=plastic&logo=stmicroelectronics&logoColor=white&logoWidth=30) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black&logoWidth=30) 
-![Makefile](https://img.shields.io/badge/Makefile-0769AD?style=plastic&logo=gnu&logoColor=white&logoWidth=30) 
-![8051](https://img.shields.io/badge/8051-004080?style=plastic&logoColor=white&logoWidth=30)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&logoWidth=50) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&logoWidth=50) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=50) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&logoWidth=50) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&logoWidth=50) 
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white&logoWidth=50) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white&logoWidth=50) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=50) 
+![NodeMCU](https://img.shields.io/badge/NodeMCU-003366?style=for-the-badge&logo=esp8266&logoColor=white&logoWidth=50) 
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoWidth=50) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=50) 
+![Makefile](https://img.shields.io/badge/Makefile-0769AD?style=for-the-badge&logo=gnu&logoColor=white&logoWidth=50) 
+![8051](https://img.shields.io/badge/8051-004080?style=for-the-badge&logoColor=white&logoWidth=50)
 
 
 
